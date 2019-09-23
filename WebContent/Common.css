@@ -1,0 +1,40 @@
+@charset "UTF-8";
+.login {
+		width : 500px;
+		margin : 0 auto;
+	}
+	
+	.login-head {
+		width : 100%;
+		height : 80px;
+		text-align : center;
+		line-height: 2;
+    	font-size: 30px;
+    	background-color: aquamarine;
+    	color: white;
+	}
+	.login-body {
+		width : 100%;
+	}
+	.text-input {
+		width : 80%;
+		height : 50px;
+		margin : 0 auto;
+		margin-top : 50px;
+	}
+	.login-button {
+		width : 250px;
+		height : 70px;
+		background : lightsky;
+		float : left;
+		border : 0;
+		color: white;
+	}
+	.join-button {
+		width : 250px;
+		height : 70px;
+		background : cadetblue;
+		float : left;
+		border : 0;
+		color: white;
+	}
